@@ -1,0 +1,5 @@
+numpy
+scikit-surprise
+pylint
+pytest
+jupyter
