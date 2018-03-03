@@ -3,3 +3,8 @@ scikit-surprise
 pylint
 pytest
 jupyter
+pandas
+scipy
+matplotlib
+seaborn
+boto3
