@@ -9,3 +9,4 @@ matplotlib
 seaborn
 boto3
 requests
+google-cloud-language
