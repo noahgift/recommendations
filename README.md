@@ -9,6 +9,7 @@ This projects has explorations of handling UGC:  Recommendation Engines, NLP, an
 Explorations of recommendation engines 
 
 * [Surprise Knn Recommendation Exploration](https://github.com/noahgift/recommendations/tree/master/notebooks)
+* [Tanimoto (Or Similarity Score) Based Hand Coded Recommended Engine](https://github.com/noahgift/recommendations/tree/master/tanimoto_example)
 
 ### Cloud NLP
 
