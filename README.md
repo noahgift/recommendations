@@ -11,7 +11,7 @@ Explorations of recommendation engines
 * [Surprise Knn Recommendation Exploration](https://github.com/noahgift/recommendations/tree/master/notebooks)
 * [Tanimoto (Or Similarity Score) Based Hand Coded Recommended Engine](https://github.com/noahgift/recommendations/tree/master/tanimoto_example)
 
-How to use:
+*How to use:*
 
 ```ipython
 In [1]: follows import *
