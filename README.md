@@ -1,5 +1,6 @@
-# recommendations and NLP
-recommendations examples
+# AI on User Generated Content 
+
+This projects has explorations of handling UGC:  Recommendation Engines, NLP, and more.
 
 ## Jupyter Notebooks for UGC (User Generated Content)
 
