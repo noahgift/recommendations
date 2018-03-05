@@ -13,7 +13,7 @@ Explorations of recommendation engines
 
 How to use:
 
-```python
+```ipython
 In [1]: follows import *
 In [2]: df = follows_dataframe()
 In [3]: dfr = follow_relations_df(df)
