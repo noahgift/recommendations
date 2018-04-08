@@ -1,6 +1,6 @@
 # AI on User Generated Content 
 
-This projects has explorations of handling UGC:  Recommendation Engines, NLP, and more.  This material is covered in Chapter 11 of [Pragmatic AI](https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-based-Learning/dp/0134863860)
+This projects has explorations of handling UGC:  Recommendation Engines, NLP, and more.  This material is covered in [Chapter 11 of Pragmatic AI](https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-based-Learning/dp/0134863860)
 
 ## Jupyter Notebooks for UGC (User Generated Content)
 
