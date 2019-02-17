@@ -1,0 +1,11 @@
+input_features:
+    -
+        name: review_body
+        type: text
+        encoder: parallel_cnn
+        level: word
+
+output_features:
+    -
+        name: class
+        type: category
