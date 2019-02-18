@@ -1,4 +1,5 @@
 numpy
+tensorflow
 scikit-surprise
 pylint
 pytest
@@ -10,3 +11,4 @@ seaborn
 boto3
 requests
 google-cloud-language
+ludwig

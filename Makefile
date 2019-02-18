@@ -2,7 +2,9 @@ setup:
 	python3 -m venv ~/.recommendations
 
 install:
-	pip install -r requirements.txt
+	pip install --upgrade pip
+	pip install --upgrade --force-reinstall -r requirements.txt
+	python -m spacy download en
 
 lint:
 	pylint --disable=R,C *.py
